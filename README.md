@@ -60,7 +60,7 @@ Draws: 1
 ```
 
 ## License
-This project is licensed under the MIT License.
+This project is open-source and can be modified or distributed freely.
 
 ## Author
 Chiheb abiza
